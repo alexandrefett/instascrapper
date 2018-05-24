@@ -1,7 +1,7 @@
 class Endpoint {
   static const String REFERER = "Referer";
   static const String X_INSTAGRAM_GIS = "X-Instagram-gis";
-  static const String BASE_URL = "https://www.instagram.com/";
+  static const String BASE_URL = "https://www.instagram.com";
   static const String LOGIN_URL = "https://www.instagram.com/accounts/login/ajax/";
   static const String MEDIA_LINK = "https://www.instagram.com/p/{{code}}";
   static const String ACCOUNT_JSON_INFO = "https://www.instagram.com/{{username}}/?__a=1";
